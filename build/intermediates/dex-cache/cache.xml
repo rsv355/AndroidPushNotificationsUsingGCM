@@ -2,165 +2,165 @@
 <items version="2" >
 
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-a9602537ac1f80fd1efe689d89774c1f49c7efea.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-a7fa8fec3084260b4baaf978c95693bbb98e9dfa.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-4b7f175fede458e35ce30d8c9d90d89561682628.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-a4c585b23ea860fae2270b2393f16c7a3f590ab1.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-1de0516c008ab1068337ddcef8d8d4f22aa9da6f.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-46ee39c1a94ffda7596e6f19525f327ca2c31719.jar" />
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-74d50a0d90be3bc8422769df32a68930127e554b.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-85858bc6c4443946b3846e28e6f7c44ff1dddf86.jar" />
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-b1378f7754eaee6961e77614f4299d5755a19606.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="055783146ba9654a725442563be78cad303aad1f">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-a93cd6e30d5de9ca95e21bf68fbd6c312c105d3f.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-5ca4a0239f46abe9e5356f5986e8500ff9eb43d1.jar" />
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-475b6e0acef462ad214a5f772f611c66a165a7ea.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-fd213be3816e97891be76152b2dbd3c1560cbf63.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-4e8eb647d3450a815ee08dace6459f5c07ae2a07.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-bf41d22521f1428de4249609971d4ed7bae6bb15.jar" />
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-74c5c51472fe369e3d957818bd5bca52a4781279.jar" />
     </item>
     <item
-        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-465b1b44bd99dc0679a2b5beab3148adfeaad686.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-17f52fd5d2ecad50dc76e888ca9b5f2035a30f7c.jar" />
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-6a83f6f26d64a20374f9f95f6d5f70825f126a27.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-af3120395378d386459acb31714d9e69e707ffd8.jar" />
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-2fdbfdc64bc4113ab67d07277a6030517085ebe5.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-64f3fde778acfccad94effc171de9e24f0ef6595.jar" />
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-aa3c4dd4023bd7e825f14fe807523c0aaa3eecd7.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-dd94ae5e1250cb870b87cd8106a7e5295b446da9.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-7616b1c9abedb9f4682054693258507326e86dc1.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-de0582c865b460f6c60f5fb694cb74a8e631039c.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-c9e266ebfa6be6ff71a26d748e5c1c96db03e726.jar" />
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-1c6bf2b6e6d76cac031e3c633d247c1ca584a30f.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-18f69f89d9f523c521bc16ab06e854953d37608e.jar" />
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-6864738b577ca466d8314f64a1be237c2f3b75fd.jar" />
     </item>
     <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-6dc87fbca54bc77886ab4b0f57f4b52026f0cfbf.jar" />
-    </item>
-    <item
-        jar="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\libs\gcm.jar"
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\libs\gcm.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
-        <dex dex="D:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\gcm-40bd8e9142b4d674020ae8aea947f8df96752b59.jar" />
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\gcm-41973b79f157c0b916f5cf11fa2234b4b64c1112.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-c3c1af8f568aa4572a7ec03e828974f776027ace.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-5ae561eb52a424e28d40acc830026736361034bc.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-433cffd2dcbb9e1c58adf342450d9590eae1a72a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-d2a3364081da71968d1a29955a8b194138f76eec.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-b69428e547d444afa648c6aaa77cf74f67a33e26.jar" />
+    </item>
+    <item
+        jar="E:\Android Development\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f258ded88c013ff9fbfa5cc9a993cb2faf17a73d.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-7db14bb2bd4921cb58215a05866c71ed928bf29f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3fde608e458b9da5c1bdaf848189612ea6b1a708.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-9176756373a383dfce296f6b1f71f377c353d57a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-b224c360ea3259ee8fab16a2a07f1512aa5886a2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-8c0b2f1500bdb0f92d9415ed371b0d89105f5345.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-4a3c3983d381be1adca2b431a9737f09f2ce93b9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\AndroidProjects\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\classes-ad1bb1fa06ea00ae2a471eaec4d38d0980268f25.jar" />
     </item>
 
 </items>
